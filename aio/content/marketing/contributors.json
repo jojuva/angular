@@ -573,5 +573,14 @@
    "website": "http://www.methotic.com",
    "bio": "Thierry is a senior consultant and trainer, specialized on Angular, and a Google Developer Expert.",
    "group": "GDE"
+ },
+
+"nirkaufman": {
+   "name": "Nir Kaufman",
+   "picture": "nirkaufman.jpg",
+   "twitter": "nirkaufman",
+   "website": "http://ngnir.life/",
+   "bio": "Nir is a Principal Frontend Consultant & Head of the Angular department at 500Tech, Google Developer Expert in web technologies (Angular) and community leader. Nir organizes the largest Angular meetup group in Israel (Angular-IL), talks and teaches about front-end technologies around the world, and is an organizer of the AngularUP international conference. He is also the author of two books about Angular and the founder of the 'Frontend Band'.",
+   "group": "GDE"
  }
 }
